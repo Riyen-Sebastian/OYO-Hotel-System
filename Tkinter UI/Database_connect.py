@@ -12,7 +12,7 @@ def create_connection():
             host='localhost',
             database='OYO',
             user='root',
-            password='Mysqlaccount1!'
+            password='mysqlpass'
         )
         if connection.is_connected():
             return connection
