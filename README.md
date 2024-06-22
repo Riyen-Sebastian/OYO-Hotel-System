@@ -20,7 +20,9 @@ Ensure you have:
 
 ### Configuration
 1.Set up the database in Mysql
+
 2.Clone all files from the repo into your local system. Maintain path integrety by ensuring that the files are arranged as in the repo. 
+
 2.Edit the 'Database_connect.py' in the Tkinter UI folder with your MySQL details:
 
 db_config = {
