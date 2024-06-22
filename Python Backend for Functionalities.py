@@ -563,4 +563,3 @@ def process_payment(booking_id, amount):
 
 
 
-
